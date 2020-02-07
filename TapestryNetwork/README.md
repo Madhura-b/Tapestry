@@ -1,6 +1,3 @@
-Team Memebers
-1. Desikan Sundararajan - 5615-9991
-2. Madhura Basavaraju - 6794-1287
 
 Running the program - mix run proj3.exs numNodes numRequests
 
