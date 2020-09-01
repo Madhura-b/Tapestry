@@ -1,3 +1,10 @@
+The goal of this project is to implement in Elixir using the actor model.
+The specification of the Tapestry protocol can be found in the paper Tapestry: A Resilient Global-Scale Overlay for Service Deployment by Ben Y. Zhao, Ling
+Huang, Jeremy Stribling, Sean C. Rhea, Anthony D. Joseph and John D. Kubiatowicz. Link to paper- https://pdos.csail.mit.edu/~strib/docs/tapestry/tapestry_jsac03.pdf.  
+
+A survey paper on comparison of peer-to-peer overlay network schemeshttps://zoo.cs.yale.edu/classes/cs426/2017/bib/lua05survey.pdf.
+
+
 
 Running the program - mix run proj3.exs numNodes numRequests
 
