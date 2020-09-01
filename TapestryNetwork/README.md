@@ -1,4 +1,4 @@
-The goal of this project is to implement in Elixir using the actor model.
+The goal of this project is to implement in Elixir using the actor model the Tapestry algorithm.
 The specification of the Tapestry protocol can be found in the paper Tapestry: A Resilient Global-Scale Overlay for Service Deployment by Ben Y. Zhao, Ling
 Huang, Jeremy Stribling, Sean C. Rhea, Anthony D. Joseph and John D. Kubiatowicz. Link to paper- https://pdos.csail.mit.edu/~strib/docs/tapestry/tapestry_jsac03.pdf.  
 
